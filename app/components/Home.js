@@ -10,11 +10,6 @@ class Home extends Component {
             <h1>Next conf announcement</h1>
             <p></p>
           </section>
-
-          <section className='text-section'>
-            <h2>Setion</h2>
-            <p></p>
-          </section>
         </div>
       </article>
     )
